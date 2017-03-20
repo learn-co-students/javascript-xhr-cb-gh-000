@@ -323,12 +323,3 @@ We learned what the `XMLHttpRequest` object does, how to use it to
 request data from a remote resourece, and how to handle the response. We
 also learned how to parse the `responseText` into JSON and display it on
 the page.
-
-## Resources
-
-- [MDN: XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
-- [GitHub API](https://developer.github.com/v3/repos/#list-user-repositories)
-- [MDN: JSON.Parse](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
-- [MDN: Using data attributes](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes)
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/javascript-xhr'>XHR</a> on Learn.co and start learning to code for free.</p>
