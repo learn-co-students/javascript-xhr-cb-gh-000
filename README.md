@@ -1,6 +1,6 @@
 JavaScript XHR
 ---
-
+u
 ## Objectives
 
 1. Explain how JavaScript fetches data from remote resources
