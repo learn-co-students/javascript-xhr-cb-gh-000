@@ -7,7 +7,7 @@
 3. Practice initializing an XHR request
 4. Practice handling an XHR response
 
-## Introduction
+## Introduction j
 
 We often find ourselves needing more data than we can, or should,
 load at one time. Data takes memory to store, and bandwidth to request
